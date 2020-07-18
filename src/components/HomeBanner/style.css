@@ -1,0 +1,102 @@
+.homeBannerWrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeBannerImgCard {
+  position: relative;
+  margin: 3rem 0 3rem 0;
+}
+
+.homeBannerPhotos {
+  background: #c5c5c7;
+  padding: 2rem;
+  margin: 0 3rem 0 3rem;
+  width: 30rem;
+  height: 30rem;
+}
+
+.homeBannerPhotos img {
+  height: inherit;
+  width: inherit;
+  box-shadow: 0 0 5px 1px rgb(7, 54, 3);
+}
+
+.newHomeBannerPhotos {
+  transition: all 0.5 ease-in-out;
+  opacity: 0.5;
+}
+
+.homeBannerbtnsCard {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.homeBannerBtn .fas {
+  position: absolute;
+  font-size: 3rem;
+  color: rgb(21, 185, 21);
+  padding: 10px;
+  width: 5rem;
+  text-align: center;
+  opacity: 0.5;
+  transition: all 0.5 ease-in-out;
+}
+
+.homeBannerBtn .fas:hover {
+  opacity: 1;
+}
+
+.homeBannerBtnLeft {
+  margin-left: 1rem;
+}
+
+.homeBannerBtnRight {
+  margin-left: 33rem;
+}
+
+/* ----------------------------@MediaQuery------------------------------------------ */
+@media (max-width: 664px) {
+  .homeBannerImgCard {
+    position: relative;
+    margin: 1rem 0 1rem 0;
+  }
+
+  .homeBannerPhotos {
+    padding: 1rem;
+    margin: 0 0 0 1rem;
+    width: 10rem;
+    height: 10rem;
+  }
+
+  .homeBannerbtnsCard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .homeBannerBtn .fas {
+    font-size: 1rem;
+    padding: 0.5rem;
+    width: 2rem;
+  }
+
+  .homeBannerBtnLeft {
+    margin-left: 0;
+  }
+
+  .homeBannerBtnRight {
+    margin-left: 11rem;
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "blogCategory": "Featured",
+      "blogTitle": "Mantra To Life",
+      "postedOn": "18 July, 2020",
+      "author": "Claire Smith",
+      "blogImage": "blog1.jpg",
+      "blogText": "I am an artist because I love the way my hands get dirty with paint, charcoal, clay, graphite; anything at all. I never want to wash it off because I just love how it feels and looks, even how it smells. It’s the leftovers of the art-making that you’ve just completed - a reminder of the hard work that has resulted in creation. I love that.",
+      "alt": "Sculpture installation"
+    },
+    {
+      "id": 2,
+      "blogCategory": "",
+      "blogTitle": "Beautiful & Special Moment",
+      "postedOn": "03 July, 2020",
+      "author": "Joseph White",
+      "blogImage": "blog2.jpg",
+      "blogText": "I am an artist because I love the people that are also artists. I love how we understand each other and connect with each other because of our eccentricities and differences. I love being able to sit down and vent to an artist friend with a cup of chai at 2 a.m. and have them completely understand. I love how there is such respect in the art community for each other and for our work. I love the passion that artists have for their work, for each other, and for the world. I love that.",
+      "alt": "Art Studio"
+    },
+    {
+      "id": 3,
+      "blogCategory": "Featured",
+      "blogTitle": "Beauty lies within special",
+      "postedOn": "22 June, 2020",
+      "author": "Martina Franca",
+      "blogImage": "blog3.jpg",
+      "blogText": "I am an artist because I often lose myself in a drawing for hours on end. I love looking up and realizing that it’s suddenly in the deep of night, how I can just forget about all the bad things that happen everywhere else. My own little universe snaps into being, full of wild and strange things that make sense to no one but me. Somehow, I consider that place to be the safest in the world despite it not even being a tangible place at all. I love that.",
+      "alt": "Drawing"
+    },
+    {
+      "id": 4,
+      "blogCategory": "",
+      "blogTitle": "Sliding My Way To Life",
+      "postedOn": "08 June, 2020",
+      "author": "Mike Brown",
+      "blogImage": "blog4.jpg",
+      "blogText": "I am an artist because every time I sit down to create, I learn something new about myself. In those quiet moments of creativity that are most enjoyed in solitude, I have realized that I hold my pencil differently than everyone else, that I always function better when I have folk music playing softly in the background, and that I pay such attention to detail that my drawings often take hours to complete. Through this process, I have developed my own artistic techniques and strategies over time - and I have discovered what makes me tick as a human being. I am an artist because I am always learning. I love that.",
+      "alt": "Artist"
+    },
+    {
+      "id": 5,
+      "blogCategory": "",
+      "blogTitle": "Memories From Last Summer",
+      "postedOn": "11 May, 2020",
+      "author": "Claire Smith",
+      "blogImage": "blog5.jpg",
+      "blogText": "I feel that within the confines of any artistic form of expression, we allow ourselves to wear a mask. The artist hides behind words or paints or brushes. And he feels safe. He can be anyone he wants to be. His freedom is limitless. And he plays this bizarre game of hide and seek with the rest of the world, constantly changing the rules, until he decides – maybe on a mere subconscious level – to  be himself, thinking that people will never find out.",
+      "alt": "Studio Art"
+    }
+  ]
+}

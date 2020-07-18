@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerContainer {
+  display: flex;
+}
+
+/* ----------------------------@MediaQuery------------------------------------------ */
+@media (max-width: 664px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+}

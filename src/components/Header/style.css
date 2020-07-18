@@ -1,0 +1,44 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.headerMenu a {
+  display: inline-block;
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #565673;
+  font-size: 11px;
+  letter-spacing: 1.2px;
+}
+
+.headerMenu a:hover {
+  color: #5f9ea0;
+}
+
+.headerSearch form {
+  display: flex;
+  margin: 0 1rem;
+}
+
+.searchInput {
+  border: 0;
+  width: 0;
+  transition: width 0.5s ease-in;
+  background-color: #e9eaed;
+}
+
+.headerSearchInput.active {
+  width: 3rem;
+}
+
+.headerSearchInput:focus {
+  outline: none;
+}
+
+.headerSearchIcon {
+  cursor: pointer;
+  width: 1.5rem;
+  height: 1.5rem;
+}

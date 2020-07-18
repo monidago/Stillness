@@ -1,0 +1,110 @@
+.sidebarCard {
+  width: 30%;
+  margin: 3rem 3rem 0 0;
+}
+
+.sidebarHeader {
+  text-transform: uppercase;
+  font-size: 1rem;
+  text-align: center;
+  box-sizing: border-box;
+  letter-spacing: 0.1rem;
+  color: #333;
+}
+
+.sidebarAboutImgCard {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.sidebarAboutImgCard img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 1rem 0 0 0;
+  box-shadow: 0 0 5px 1px rgb(110, 110, 110);
+}
+
+.sidebarBodyCard {
+  text-align: center;
+}
+
+.sidebarBodyText {
+  font-size: 1.7rem;
+  font-weight: 500;
+  color: #169647;
+  font-weight: 300;
+  font-family: "Dancing Script", cursive;
+}
+
+.sidebarBodyText a {
+  text-decoration: none;
+  color: #169647;
+}
+
+.sidebarBodyText a:hover {
+  color: #169647;
+}
+
+.sidebarSocialMediaCard {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 2rem 1rem 2rem;
+  align-items: center;
+}
+
+.sidebarSocialMedia {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.sidebarSocialMedia a {
+  color: #565673;
+  font-size: 1.5rem;
+}
+
+.sidebarSocialMedia a:hover {
+  color: #169647;
+}
+
+.sidebarRecentPostCard {
+  padding: 1rem 0 0 0;
+}
+
+.sidebarRecentPost {
+  border-bottom: 0.1rem solid #eee;
+  margin-bottom: 1rem;
+}
+
+.sidebarRecentPost h3 {
+  font-weight: 500;
+  color: #333;
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.sidebarRecentPost span {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: #565673;
+}
+
+/* ----------------------------@MediaQuery------------------------------------------ */
+@media (max-width: 664px) {
+  .sidebarCard {
+    width: 100%;
+    margin: 0;
+  }
+
+  .sidebarSocialMedia {
+    /* padding: 0 3rem; */
+    margin: 0 2rem;
+  }
+
+  .sidebarSocialMedia a {
+    font-size: 1rem;
+  }
+}
