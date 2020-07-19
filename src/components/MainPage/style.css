@@ -35,10 +35,12 @@
 .mainImg {
   width: 25rem;
   height: 25rem;
+  opacity: 1;
+  transition: 0.5s ease;
 }
 
 .mainImg:hover {
-  opacity: 50%;
+  opacity: 0.3;
 }
 
 .mainContent {

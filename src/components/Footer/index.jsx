@@ -10,49 +10,49 @@ const Footer = (props) => {
         <Card>
           <div className="footerImageWrap">
             <div>
-              <a href="../../Blog">
+              <NavLink to="/Blog">
                 <img
                   src={require("../../assets/footer/footer1.jpg")}
                   alt="Artist Painting"
                 />
-                {/* image source: https://twitter.com/chicxchanel/status/1199626335813013505/photo/4 */}
-              </a>
+              </NavLink>
+              {/* image source: https://twitter.com/chicxchanel/status/1199626335813013505/photo/4 */}
             </div>
             <div>
-              <a href="../../Blog">
+              <NavLink to="/Blog">
                 <img
                   src={require("../../assets/footer/footer2.jpg")}
                   alt="Drawing"
                 />
                 {/* image source: https://www.pinterest.co.uk/pin/445926800574049763/ */}
-              </a>
+              </NavLink>
             </div>
             <div>
-              <a href="../../Blog">
+              <NavLink to="/Blog">
                 <img
                   src={require("../../assets/footer/footer3.jpg")}
                   alt="Journal"
                 />
                 {/* image source: https://designyoutrust.com/2017/08/a-wandering-into-the-fascinating-sketchbook-of-russian-artist-elena-limkina/ */}
-              </a>
+              </NavLink>
             </div>
             <div>
-              <a href="../../Blog">
+              <NavLink to="/Blog">
                 <img
                   src={require("../../assets/footer/footer4.jpg")}
                   alt="Ink Drawing"
                 />
                 {/* image source: https://www.pinterest.co.uk/pin/445926800573918223/ */}
-              </a>
+              </NavLink>
             </div>
             <div>
-              <a href="../../Blog">
+              <NavLink to="/Blog">
                 <img
                   src={require("../../assets/footer/footer5.jpg")}
                   alt="Tree Drawing"
                 />
                 {/* image source: https://www.pinterest.co.uk/pin/445926800608096423/ */}
-              </a>
+              </NavLink>
             </div>
           </div>
         </Card>

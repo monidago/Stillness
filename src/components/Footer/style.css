@@ -10,11 +10,12 @@
   height: 10rem;
   margin: 2.1rem;
   box-shadow: 0 0 5px 1px rgb(7, 54, 3);
+  opacity: 1;
+  transition: 0.5s ease;
 }
 
 .footerImageWrap img:hover {
-  opacity: 50%;
-  transition: 0.5s ease;
+  opacity: 0.5;
 }
 
 .footerList {

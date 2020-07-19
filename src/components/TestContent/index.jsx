@@ -5,7 +5,7 @@ import Card from "../Card";
 const TestContent = (props) => {
   return (
     <div className="contactCard">
-      <Card> Contact us</Card>
+      <Card> Test Content</Card>
     </div>
   );
 };
