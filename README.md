@@ -1,5 +1,16 @@
+![background image](background.png) 
+</br></br>
+<img align="center" src="https://github.com/monartlondon/Stillness/blob/main/StillnessIMGGit/img1.png" height="160" width="300">
+<img align="center" src="https://github.com/monartlondon/Stillness/blob/main/StillnessIMGGit/img2.png" height="160" width="300">
+</br></br>
+<img align="center" src="https://github.com/monartlondon/Stillness/blob/main/StillnessIMGGit/img3.png" height="160" width="300">
+<img align="center" src="https://github.com/monartlondon/Stillness/blob/main/StillnessIMGGit/img4.png" height="160" width="300">
+</br></br>
 # Stillness
 </br>  
+This Blog website has been designed with React.
+This is an artist blog. There is a home page, an about page, and a blog page.
+</br> </br>   
 <h2>This is the live version:</h2> https://monartlondon.github.io/Stillness/
 </br></br></br></br>
 
