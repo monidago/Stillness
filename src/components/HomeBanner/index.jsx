@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css";
 
+
+
 export default class HomeBanner extends React.Component {
   state = {
     images: [
@@ -56,3 +58,5 @@ export default class HomeBanner extends React.Component {
 // Image 2 https://www.pinterest.co.uk/pin/445926800578295366/
 // Image 3 https://sabonhomeblog.tumblr.com/post/167415272034
 // Image 4 https://www.pinterest.co.uk/pin/141863456981653805/
+
+
