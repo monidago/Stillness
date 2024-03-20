@@ -11,7 +11,7 @@
 This Blog website has been designed with React.
 This is an artist blog. There is a home page, an about page, and a blog page.
 </br> </br>   
-<h2>This is the live version:</h2> https://monartlondon.github.io/Stillness/
+<h2>This is the live version:</h2> https://monidago.github.io/Stillness/
 </br></br></br></br>
 
 
